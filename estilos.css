@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    background: blue;
+    color: #ffffff;
+    height: 70px;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 12px;
+}
+
+.contenido{
+
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 2cm;
+}
+
+img{
+size: 2px;
+}
+
+footer{
+
+    background: black;
+    color: white;
+    padding: 12px;
+}
+
+   
